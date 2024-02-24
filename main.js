@@ -17,7 +17,7 @@ let addTask = ()=>{
             <input type="checkbox">
             ${newValue}
         </label>
-        <img src="/img/basurero.png" class="closeBtn">
+        <img src="img/basurero.png" class="closeBtn">
     </div> `
     input.value = '';
     updateStats();
