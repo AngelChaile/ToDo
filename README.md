@@ -11,7 +11,7 @@ Esta aplicación simple te permite gestionar tu lista de tareas de manera fácil
 
 ## Cómo Usar
 
-1. Clona este repositorio: `git clone https://github.com/AngelChaile/App_lista_tareas.git`.
+1. Clona este repositorio: `git clone https://github.com/AngelChaile/ToDo.git`.
 2. Abre el archivo `index.html` en tu navegador.
 
 ## Personalización
